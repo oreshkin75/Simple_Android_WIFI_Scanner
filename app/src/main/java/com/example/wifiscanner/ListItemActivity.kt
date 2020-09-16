@@ -1,5 +1,6 @@
 package com.example.wifiscanner
 
+import android.net.wifi.ScanResult
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_list_item.*
